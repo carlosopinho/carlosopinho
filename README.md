@@ -14,6 +14,7 @@
 <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></img>
 </div><br/>
 
+Como desenvolvedor web, estou em busca de novos desafios para aplicar meus conhecimentos na construção de soluções inovadoras!
 
 
 
